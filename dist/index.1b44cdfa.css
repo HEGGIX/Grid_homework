@@ -81,6 +81,10 @@ body {
   line-height: 22px;
 }
 
+.longer {
+  margin-bottom: 0;
+}
+
 .industry__second-text {
   color: #fff;
   font-family: Roboto, sans-serif;

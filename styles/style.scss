@@ -85,6 +85,10 @@ body{
     margin-top: 0;
 }
 
+.longer{
+    margin-bottom: 0;
+ }
+
 .industry__second-text{
     @include industryText();
     line-height: 15px;
